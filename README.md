@@ -35,7 +35,7 @@ The ThunderPods system is design around a key unit dimension of **360mm**. Diffe
 and for example a unit 1 unit tall, 2 units wide and 2 units deep would be called: **1x2x2**
 
 ## Naming Designations
-Names are given based on the the construction of the pod, these are abreviated to two letter identifiers for convenience. An example of the naming is below:
+Names are given based on the the construction of the pod, these are abbreviated to two letter identifiers for convenience. An example of the naming is below:
 
 -BX - Box  
 -DR - Drawer  
